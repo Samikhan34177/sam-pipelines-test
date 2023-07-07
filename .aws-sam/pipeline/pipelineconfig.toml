@@ -1,6 +1,6 @@
 version = 0.1
 [default.pipeline_bootstrap.parameters]
-pipeline_user = "arn:aws:iam::026661447922:user/Solutionarchitect"
+pipeline_user = "arn:aws:iam::026661447922:user/aws-sam-cli-managed-dev-pipeline-reso-PipelineUser-OLAMKZXJQ8A2"
 permissions_provider = "AWS IAM"
 
 [dev.pipeline_bootstrap.parameters]
